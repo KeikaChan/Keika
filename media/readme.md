@@ -1,5 +1,5 @@
-# 動画処理系について  
-色々なツールについてまとめます。  
+# 動画像系  
+色々な画像・動画を扱うツールについてまとめます。  
 
 ## [VideoRotator](https://github.com/KeikaChan/VideoRotator)
 https://github.com/KeikaChan/VideoRotator  
@@ -7,4 +7,19 @@ https://github.com/KeikaChan/VideoRotator
 AVerMedia系のソフトウェアで録画すると動画が横になっていることがあるので回転してもとに戻す。  
 Mac等だと動画の回転情報をいじって簡単に直すこともできるけど、動画の回転情報を認識しない再生ソフトもあるので直接変換しています。  
 一応ビットレートなど色々設定できます。  
-![screenshot 2018-11-03 19 17 01](https://user-images.githubusercontent.com/4639391/47950922-1762a380-df9d-11e8-813c-85a8ad77da7b.jpg)
+
+|スクリーンショット|
+|---|
+|![screenshot 2018-11-03 19 17 01](https://user-images.githubusercontent.com/4639391/47950922-1762a380-df9d-11e8-813c-85a8ad77da7b.jpg)|
+
+
+## [PriParaSearch](https://github.com/KeikaChan/PriParaSearch)
+https://github.com/KeikaChan/PriParaSearch  
+[Gochiusearch](https://github.com/ksasao/Gochiusearch)のプリパラ版。  
+元のプログラムのアルゴリズムを踏襲し、いくつかの弱点を改善した自作ソフト。  
+詳しいアルゴリズムについては[本家参照](https://github.com/ksasao/Gochiusearch)。  
+公開先ではGochiusearch用のデータと自分で実装したバージョンがあります。  
+
+|スクリーンショット|
+|---|
+|![screenshot 2018-03-04 14 46 07](https://user-images.githubusercontent.com/4639391/36942751-c668acee-1fbd-11e8-865b-a51f45354a4f.jpg)|
