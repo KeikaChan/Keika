@@ -10,7 +10,7 @@ Mac等だと動画の回転情報をいじって簡単に直すこともでき�
 
 |スクリーンショット|
 |---|
-|![screenshot 2018-11-03 19 17 01](https://user-images.githubusercontent.com/4639391/47950922-1762a380-df9d-11e8-813c-85a8ad77da7b.jpg)|
+|<img src="https://user-images.githubusercontent.com/4639391/47950922-1762a380-df9d-11e8-813c-85a8ad77da7b.jpg" width="500">|
 
 
 ## [PriParaSearch](https://github.com/KeikaChan/PriParaSearch)
@@ -22,4 +22,4 @@ https://github.com/KeikaChan/PriParaSearch
 
 |スクリーンショット|
 |---|
-|![screenshot 2018-03-04 14 46 07](https://user-images.githubusercontent.com/4639391/36942751-c668acee-1fbd-11e8-865b-a51f45354a4f.jpg)|
+|<img src="https://user-images.githubusercontent.com/4639391/36942751-c668acee-1fbd-11e8-865b-a51f45354a4f.jpg" width="500">|
