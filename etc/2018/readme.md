@@ -12,7 +12,7 @@
 今年からプリティーシリーズ沼にハマった、くろむです。  
 来年卒業の学生?でプリチャンやるのが日課です。。  
 Twitter: [@keyka_p](https://twitter.com/keyka_p)  
-Github: https://github.com/KeikaChan  
+Github: [https://github.com/KeikaChan](https://github.com/KeikaChan)  
 
 一応学生でyuonと同じ学校に通っていますー
 
