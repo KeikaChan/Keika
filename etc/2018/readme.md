@@ -18,7 +18,7 @@ Github: [https://github.com/KeikaChan](https://github.com/KeikaChan)
 
 ## やってることとか
 ここ最近は学会([台湾へプリパラをやりに行った](https://twitter.com/keyka_p/status/1068868059924881409))とかでバタバタしていましたが、今までには  
-[プリチャンで撮った動画を回転させるやつ](https://github.com/KeikaChan/keikachan.github.io/tree/master/media#videorotator)とか  
+[プリチャンで撮った動画を回転させるやつ](https://github.com/KeikaChan/keikachan.github.io/tree/master/tools/media#videorotator)とか  
 [プリパラのスクショからシーンを推定するやつ](https://github.com/KeikaChan/PriParaSearch)とか  
 [自動更新でプリチャンのコーデを収集するscraper](https://github.com/KeikaChan/prichan-items-scraper)とか  
 [プリチャンのフォロー管理アプリ](https://play.google.com/store/apps/details?id=work.airz.prifollow)とか  
