@@ -10,7 +10,7 @@ h.265 の方がきれいなんじゃない？
 公式では h.264 と比較して2倍の圧縮性能が出ているから、同じビットレート上では h.265 の方がきれいなはず。
 
 ## 使った動画データ
-まとめて release に置いてあります。
+まとめて release に置いてあります。  
 https://github.com/KeikaChan/keikachan.github.io/releases/tag/cc1
 
 ## 比較環境
@@ -90,7 +90,7 @@ echo "calc SSIM h265"
 **え、 h.264 の方がきれいじゃん🤔🤔🤔**
 
 全部の出力画像を見てみたい方はこちらからどうぞ↓ 
-※結構重いです
+※結構重いです  
 https://github.com/KeikaChan/keikachan.github.io/issues/2
 
 ## 考察的な何か
