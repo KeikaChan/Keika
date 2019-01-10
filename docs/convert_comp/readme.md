@@ -11,7 +11,7 @@ h.265 の方がきれいなんじゃない？
 
 ## 使った動画データ
 まとめて release に置いてあります。  
-https://github.com/KeikaChan/keikachan.github.io/releases/tag/cc1
+[https://github.com/KeikaChan/keikachan.github.io/releases/tag/cc1](https://github.com/KeikaChan/keikachan.github.io/releases/tag/cc1)
 
 ## 比較環境
 - コーデックは h.264 と h.265
@@ -91,7 +91,7 @@ echo "calc SSIM h265"
 
 全部の出力画像を見てみたい方はこちらからどうぞ↓ 
 ※結構重いです  
-https://github.com/KeikaChan/keikachan.github.io/issues/2
+[https://github.com/KeikaChan/keikachan.github.io/issues/2](https://github.com/KeikaChan/keikachan.github.io/issues/2)
 
 ## 考察的な何か
 h.264よりh.265の方が 0.01 〜 0.03 ぐらい低いのが結構気になる。  
